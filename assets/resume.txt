@@ -1,0 +1,25 @@
+RAKSHITHA S G
+BCA STUDENT | ASPIRING WEB DEVELOPER
+
+PROFILE
+Motivated BCA student interested in web development, programming, databases and software development.
+
+EDUCATION
+Bachelor of Computer Applications (BCA)
+Currently pursuing
+
+SKILLS
+HTML, CSS, JavaScript, Python, DBMS, SQL, Git & GitHub
+
+PROJECTS
+1. Personal Portfolio Website
+2. Library Management System
+3. College Admission System
+
+CAREER OBJECTIVE
+To begin a career in the IT field, apply my technical knowledge to practical projects, and continuously learn new technologies.
+
+CONTACT
+Email: your.email@example.com
+GitHub: https://github.com/
+LinkedIn: https://www.linkedin.com/
