@@ -1,36 +1,33 @@
 BCA STUDENT PORTFOLIO
-=====================
+======================
 
 FILES
 -----
-index.html  -> Main portfolio page
-style.css   -> Design and responsive layout
-script.js   -> Mobile menu, year and contact-form interaction
-assets/     -> Resume and future images
+index.html  - Main portfolio page
+style.css   - Website design and responsive layout
+script.js   - Menu, contact form and back-to-top button
+images/     - Put your profile photo here if needed
+resume/     - Put your PDF resume here
 
 HOW TO RUN
 ----------
 1. Extract the ZIP file.
-2. Open the folder in VS Code.
-3. Open index.html.
-4. Right-click index.html and choose "Open with Live Server" if Live Server is installed.
-   OR double-click index.html to open it in your browser.
-
-HOW TO ADD YOUR PHOTO
----------------------
-1. Put your JPG photo inside the assets folder.
-2. Rename it to profile.jpg.
-3. In index.html, you can replace the RSG avatar with:
-   <img src="assets/profile.jpg" alt="Rakshitha S G" class="profile-photo">
+2. Open the bca-portfolio folder.
+3. Double-click index.html.
+4. The portfolio will open in your browser.
 
 PERSONALIZE
 -----------
-- Replace the sample email with your real email.
-- Replace GitHub and LinkedIn links with your profiles.
-- Update education details.
-- Add your own projects.
-- Replace assets/resume.txt with your real PDF resume and change the link in index.html to assets/resume.pdf.
+1. Open index.html in Notepad or VS Code.
+2. Replace the name, email, phone and education details.
+3. Replace project descriptions with your own projects.
+4. Add your PDF resume as:
+   resume/Rakshitha-Resume.pdf
+5. Save the files.
+6. Refresh the browser.
 
-NOTE
-----
-The contact form is a front-end demo. It does not send email by itself.
+IMPORTANT
+---------
+The contact form is a front-end demonstration. It does not send email
+to an actual inbox. A backend or email service is required for real
+message delivery.
